@@ -1,20 +1,19 @@
-# Xilinx-Vivado-Projects
 # Half Adder
 
 ## Overview
 The half adder is a digital circuit that adds two single-bit binary numbers.
 
 ## Circuit Diagram
-./hao.png
+![Half Adder Schematic](./Screenshots/hao.png)
 
 ## Simulation Waveform
 The waveform below shows the half adder operation through all test cases:
 
-./hatb.png
+![Simulation Waveform](./Screenshots/hatb.png)
 
 ## Truth Table Verification
 
-./haut.png
+![Truth Table](./Screenshots/haut.png)
 
 **Test Results:**
 - Input A=0, B=0 → Sum=0, Carry=0 ✅
@@ -28,3 +27,5 @@ The waveform below shows the half adder operation through all test cases:
 - **Status:** ✅ Complete & Verified
 
 ---
+
+*All screenshots and design files included. Ready for FPGA implementation!*
