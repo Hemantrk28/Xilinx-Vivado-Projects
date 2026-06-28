@@ -3,15 +3,15 @@
 ## Overview
 The half adder is a digital circuit that adds two single-bit binary numbers.
 
-## Circuit Diagram
+## Waveform 
 ![Half Adder Schematic](./Screenshots/hao.png)
 
-## Simulation Waveform
+## Testbench code 
 The waveform below shows the half adder operation through all test cases:
 
 ![Simulation Waveform](./Screenshots/hatb.png)
 
-## Truth Table Verification
+## Design under test code g
 
 ![Truth Table](./Screenshots/haut.png)
 
