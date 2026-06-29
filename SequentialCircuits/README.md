@@ -48,7 +48,3 @@ Data Input ───┘
 - **Language:** VHDL
 - **Simulator:** Vivado
 - **Status:** ✅ Verified
-
----
-
-*Master sequential circuits to understand processors, microcontrollers, and digital systems!*gi
